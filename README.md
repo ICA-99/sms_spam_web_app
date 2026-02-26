@@ -87,9 +87,10 @@ Example metrics (may vary slightly):
 - Precision (Spam): 0.99
 
 - Confusion Matrix
+```text
 [[902   1]
 [ 26 105]]
-
+```
 ---
 
 ## 🛠 Installation
