@@ -1,0 +1,6 @@
+myvenv/
+__pycache__/
+*.pyc
+models/*.joblib
+data/*.csv
+.DS_Store
