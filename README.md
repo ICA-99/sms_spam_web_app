@@ -87,8 +87,8 @@ Example metrics (may vary slightly):
 - Precision (Spam): 0.99
 
 - Confusion Matrix
-- [[902   1]
-- [ 26 105]]
+[[902   1]
+[ 26 105]]
 
 ---
 
@@ -96,14 +96,14 @@ Example metrics (may vary slightly):
 
 ### 1️⃣ Clone Repository 
 ```text
-git clone <your-repo-link>
+git clone <https://github.com/ICA-99/sms_spam_web_app.git>
 cd sms_spam_web_app
 ```
 
-### 2️⃣ Create Virtual Environment (Recommended)
+### 2️⃣ Create Virtual Environment (Linux / Mac)
 ```text
 python -m venv myvenv
-source myvenv/bin/activate   # Linux / Mac
+source myvenv/bin/activate   
 ```
 
 ### 3️⃣ Install Dependencies
