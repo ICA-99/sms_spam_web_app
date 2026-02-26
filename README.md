@@ -52,10 +52,10 @@ sms_spam_web_app/
 ## 📸 Web Application Preview
 
 ### 🟢 Ham Prediction
-<img src="eda/plots/streamlit_ham.png" width="900">
+![Ham Prediction](eda/plots/streamlit_ham.png)
 
 ### 🔴 Spam Prediction
-<img src="eda/plots/streamlit_spam.png" width="900">
+![Spam Prediction](eda/plots/streamlit_spam.png)
 
 ---
 
