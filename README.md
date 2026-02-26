@@ -49,6 +49,16 @@ sms_spam_web_app/
 ```
 ---
 
+## 📸 Web Application Preview
+
+### 🟢 Ham Prediction
+<img src="eda/plots/streamlit_ham.png" width="900">
+
+### 🔴 Spam Prediction
+<img src="eda/plots/streamlit_spam.png" width="900">
+
+---
+
 ## 🧠 Machine Learning Pipeline
 
 ### 1️⃣ Data Cleaning
