@@ -86,7 +86,7 @@ Example metrics (may vary slightly):
 - Accuracy: ~97.3%
 - Precision (Spam): 0.99
 
-- Confusion Matrix
+- ### Confusion Matrix
 ```text
 [[902   1]
 [ 26 105]]
