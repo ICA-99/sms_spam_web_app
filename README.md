@@ -25,7 +25,7 @@ The model is trained using the SMS Spam dataset and deployed as an interactive w
 ---
 
 ## 🏗 Project Structure
-
+```text
 sms_spam_web_app/
 │
 ├── app.py # Streamlit web application
@@ -46,7 +46,7 @@ sms_spam_web_app/
 ├── assets/ # UI images (optional)
 │
 └── README.md
-
+```
 ---
 
 ## 🧠 Machine Learning Pipeline
