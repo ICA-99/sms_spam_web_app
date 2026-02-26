@@ -94,45 +94,52 @@ Example metrics (may vary slightly):
 
 ## 🛠 Installation
 
-1️⃣ Clone Repository 
+### 1️⃣ Clone Repository 
+```text
 git clone <your-repo-link>
 cd sms_spam_web_app
+```
 
-2️⃣ Create Virtual Environment (Recommended)
+### 2️⃣ Create Virtual Environment (Recommended)
+```text
 python -m venv myvenv
 source myvenv/bin/activate   # Linux / Mac
+```
 
-3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
+```text
 pip install -r requirements.txt
-
-
+```
 
 ## 📦 Download NLTK Resources (Run Once)
-
+```text
 import nltk
 
 nltk.download("punkt")
 nltk.download("stopwords")
 nltk.download("wordnet")
 nltk.download("averaged_perceptron_tagger")
-
+```
 
 
 ## 🏋️ Train the Model
+```text
 python train_model.py
+```
 
 This will:
 1) Train the model
 2) Save model files inside models/
 
-
 ## 🔍 Run Prediction Script
+```text
 python predict.py
-
+```
 
 ## 🌐 Run Web Application
+```text
 streamlit run app.py
-
+```
 
 ## 📈 Future Improvements
 1. Add Cross-Validation
